@@ -18,10 +18,6 @@ body{
     text-align: center;  
     align-content: center;    
 }
-.selecao-de-personagens>img{
-    position: absolute;
-
-}
 .personagens>.titulo{
     font-size: 18pt; 
     border-bottom:3px solid aqua;    
